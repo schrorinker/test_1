@@ -1,4 +1,17 @@
+@charset "utf-8";
+
 /*--------------------header---------------------*/
 #header{
-    widows: 100%;
+    width: 100%;
+} 
+#header h1 {
+	background-color: aqua;
+	content: 100%;
+	border: 2px solid red;
+	margin: 5px;
+	padding: 10px;
+	text-align: center;
+}
+#header h2 {
+	text-align: center;
 }
